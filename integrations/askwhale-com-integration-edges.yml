@@ -1,0 +1,22 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/askwhale-com/integrations
+- https://zapier.com/apps/askwhale/integrations
+- https://zapier.com/apps/polly/integrations
+- https://n8n.io/integrations/askwhale-com/
+- https://n8n.io/integrations/askwhale/
+- https://composio.dev/toolkits/askwhale-com
+- https://monid.ai/tools/askwhale-com
+checked:
+- https://composio.dev/toolkits/askwhale-com
+- https://monid.ai/tools/askwhale-com
+- https://n8n.io/integrations/askwhale-com/
+- https://n8n.io/integrations/askwhale/
+- https://zapier.com/apps/askwhale-com/integrations
+- https://zapier.com/apps/askwhale/integrations
+- https://zapier.com/apps/polly/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
